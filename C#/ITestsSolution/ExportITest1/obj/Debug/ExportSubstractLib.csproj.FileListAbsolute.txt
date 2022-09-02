@@ -1,0 +1,7 @@
+C:\Users\DNS1\Desktop\Article_src\MEFApplication\bin\Debug\ExportSubstractLib.dll
+C:\Users\DNS1\Desktop\Article_src\MEFApplication\bin\Debug\ExportSubstractLib.pdb
+C:\Users\DNS1\Desktop\Article_src\ExportSubstractLib\obj\Debug\ExportSubstractLib.csproj.AssemblyReference.cache
+C:\Users\DNS1\Desktop\Article_src\ExportSubstractLib\obj\Debug\ExportSubstractLib.csproj.CoreCompileInputs.cache
+C:\Users\DNS1\Desktop\Article_src\ExportSubstractLib\obj\Debug\ExportSubstractLib.csproj.CopyComplete
+C:\Users\DNS1\Desktop\Article_src\ExportSubstractLib\obj\Debug\ExportSubstractLib.dll
+C:\Users\DNS1\Desktop\Article_src\ExportSubstractLib\obj\Debug\ExportSubstractLib.pdb
