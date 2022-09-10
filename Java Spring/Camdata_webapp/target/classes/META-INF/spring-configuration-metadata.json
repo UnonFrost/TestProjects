@@ -1,0 +1,17 @@
+{
+  "groups": [
+    {
+      "name": "exchange",
+      "type": "ru.frost.devtest.configuration.properties.ExchangeProperties",
+      "sourceType": "ru.frost.devtest.configuration.properties.ExchangeProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "exchange.source",
+      "type": "java.lang.String",
+      "sourceType": "ru.frost.devtest.configuration.properties.ExchangeProperties"
+    }
+  ],
+  "hints": []
+}
